@@ -7,3 +7,7 @@ body{
 	line-height: 100px;
 	color: yellow;
 }
+p{
+	font-size: 14px;
+	color: #000;
+}
