@@ -1,1 +1,9 @@
 *{margin:0;padding:0}
+body{
+	height: 100px;
+	width: 600px;
+	background-color: #fff;
+	border: 10px solid red;
+	line-height: 100px;
+	color: yellow;
+}
